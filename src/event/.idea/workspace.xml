@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e960d948-7865-42da-a579-d14b0b0c2d51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/Humi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/Press.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/Temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/alti.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/1035618.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/1087902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/234771.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/481430.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/850785.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/Gnome-fs-server.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/arduino2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/photo-1563008887-170b34916b21.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/img/thumb-1920-81006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/projet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/html_station_meteo/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/1035618.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/1087902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/234771.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/481430.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/5848152fcef1014c0b5e4967.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/7cd22376-c927-459d-964f-e2f6b27af99b-1-1024x576.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/80533-ligne-design_urbain-carte_de_circuit_imprime-composant_electronique-circuit_electronique-2560x1600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/850785.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/Bash_Logo_Colored.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/Gnome-fs-server.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/JavaScript-Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/arduino2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/beau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/c-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/photo-1563008887-170b34916b21.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/pngtree-beautiful-technology-website-business-poster-background-template-image_148436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/thumb-1920-81006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/—Pngtree—abstract fluid gradient background with_1199248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/img/—Pngtree—dark vector abstract background_1159556.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/html/site_github/style3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../code/jsbg/chatbot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../code/jsbg/chatbot/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anim/game_anim_enemy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../anim/game_anim_enemy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/GAS dash FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/GAS dash with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/charge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/damaged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/hot wheels flatten.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/hot wheels flatten.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/hot wheels small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/hotheels.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/move FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/move with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/move without FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/shoot FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/shoot with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/shoot without FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/static idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Bot Wheel/wake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/Contact.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0000_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0001_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0002_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0003_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0004_Lights.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0005_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0006_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0007_Lights.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0008_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0009_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0010_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PNG/Background layers/Layer_0011_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/PSD/Background.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/Preview/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/You may also like/Pixel Art Forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/You may also like/Pixel Art Plataformer Painted Style.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/You may also like/Pixel Art Runner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/You may also like/Pixel Art Snowy Forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Free Pixel Art Forest/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Flying eye/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Flying eye/projectile_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Goblin/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Goblin/Bomb_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Mushroom/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Mushroom/Projectile_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Sword_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/All Characters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Flying eye/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Flying eye/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Flying eye/Flight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Flying eye/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Goblin/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Goblin/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Goblin/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Goblin/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Goblin/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Mushroom/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Mushroom/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Mushroom/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Mushroom/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy (2)/Mushroom/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/All Characters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Flying eye/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Flying eye/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Flying eye/Flight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Flying eye/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Goblin/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Goblin/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Goblin/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Goblin/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Goblin/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Mushroom/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Mushroom/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Mushroom/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Mushroom/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Mushroom/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy/Skeleton/Walk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Monsters_Creatures_Fantasy_monster.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/Battleground1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/hills&amp;trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/ruins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/ruins2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/ruins_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/statue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground1/Pale/stones&amp;grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/Battleground2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/candeliar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/columns&amp;falgs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/dragon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/mountaims.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Bright/wall@windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/Battleground2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/candeliar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/columns&amp;falgs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/dragon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/mountaims.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground2/Pale/wall@windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/Battleground3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/fireflys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/grass&amp;road.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/grasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/jungle_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/lianas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/tree_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Bright/trees&amp;bushes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/Battleground3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/fireflys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/grass&amp;road.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/grasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/jungle_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/lianas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/tree_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground3/Pale/trees&amp;bushes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/Battleground4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/back_trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/bones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/crypt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/graves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Bright/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/Battleground4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/back_trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/bones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/crypt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/graves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/PNG/Battleground4/Pale/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Pixel-Art-Battlegrounds/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Skeleton/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/PSD/enemy01.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/attack10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/fly07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy01/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/PSD/enemy02.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/attack08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/idle11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy02/walk08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/PSD/enemy03.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_left08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/attack_right08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy03/idle08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/PSD/enemy04.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/attack07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/enemy04_sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/idle07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/jump_landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/jump_mid01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/jump_mid02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/jump_mid03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/jump_mid04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy04/walk06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/PSD/enemy05.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/attack06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/enemy05_sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/idle09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Enemy05/walk06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attack in jump/attack_in_jump07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackA07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackB01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackB02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackB03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackB04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackB05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackC07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Attacks/AttackD08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/death01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/death02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/death03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/death04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/death05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Hit, death/hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/idle09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_mid01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_mid02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_mid03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_mid04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_start01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/jump_start02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Idle, run, jump/run08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Ledge grab/lean-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Ledge grab/ledge_grab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Ledge grab/ledge_grab01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Ledge grab/ledge_grab02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Ledge grab/ledge_grab03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Slide/slide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Slide/slide_end01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Slide/slide_end02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Slide/slide_start01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Slide/slide_start02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_attack07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_dagger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_dagger_hit01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_dagger_hit02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PNG/Throw attack/throw_dagger_hit03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/attack_in_jump.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/attacks.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/hit,death.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/idle,run,jump.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/ledge_grab.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/slide.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/throw_attack.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/Sprites/Gino Character/PSD/throw_dagger.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Layers/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/Reference-Image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/The Dawn/The-Dwan.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/img/perso_2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/include/game.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/include/game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_bg.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_bg.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_character.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_character.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_enemy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/anim/game_anim_enemy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_bg.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_bg.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_character.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_character.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_enemy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/clock/game_clock_enemy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/draw/game_draw.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/draw/game_draw.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/event/game_event.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/event/game_event.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/init/game_init.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/init/game_init.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/init/game_init_bg.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/init/game_init_bg.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/init/game_init_character.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/init/game_init_character.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/init/game_init_enemy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/init/game_init_enemy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../my_game/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../my_game/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../roulette_computer/roulette_hard.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectId" id="2IPeegZX9eA4zGMHX3ZwefQDAgP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e960d948-7865-42da-a579-d14b0b0c2d51" name="Changes" comment="" />
+      <created>1670087742795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670087742795</updated>
+      <workItem from="1670087744532" duration="4000" />
+      <workItem from="1670174591366" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
